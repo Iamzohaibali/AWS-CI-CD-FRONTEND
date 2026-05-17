@@ -24,6 +24,7 @@ const App = () => {
   return (
     <div style={{ padding: "40px" }}>
       <h1>Frontend + Backend Connected 🚀</h1>
+      <h1>In Frontend CI CD is also working.</h1>
 
       {data && <h2>{data.message}</h2>}
     </div>
